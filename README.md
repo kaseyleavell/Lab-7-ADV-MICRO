@@ -1,2 +1,2 @@
 # Lab-7-ADV-MICRO
-Creating a VU meter with the microphone chip
+Creating a VU meter with A 3.3v microphone
